@@ -22,19 +22,27 @@ This particular example can be found in *Chapter 2: A tour of Rust - Filesystems
 ### Building:
 1. clone this repo
 
-```git clone https://github.com/errorgenerator/quickreplace.git```
+```bash
+git clone https://github.com/errorgenerator/quickreplace.git
+```
 
 2. change into the directory
 
-```cd ./quickreplace ```
+```bash
+cd ./quickreplace 
+```
 
 3. build the code with cargo
 
-```cargo build --release```
+```bash
+cargo build --release
+```
 
 4. the compiled binary can be found in the newly created ```target/release``` directory.
 
-```cd ./target/release```
+```bash
+cd ./target/release
+```
 
 5. you can now run the binary with ```./quickreplace```
 
