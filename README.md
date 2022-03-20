@@ -1,6 +1,6 @@
 # quickreplace - a CLI tool written in Rust
 
-**quickreplace allows you to replace a string of your choosing within a file and 
+**quickreplace allows you to replace every occurence of a string of your choosing within a file and 
 write the changed text to an output file**
 
 This code originates from the example found in the book:
